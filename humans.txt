@@ -1,0 +1,7 @@
+/* TEAM */
+Website: Artificial Tree
+Website URL: https://artificialtree.in/
+
+/* SITE */
+Last updated: 2026-10
+Notes: Basic website information. Update this file with accurate team and technology details if desired.
