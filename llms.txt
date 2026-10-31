@@ -1,0 +1,12 @@
+# Artificial Tree
+
+> Artificial Tree website.
+
+## Main pages
+- https://artificialtree.in/
+- https://artificialtree.in/about.html
+- https://artificialtree.in/categories.html
+- https://artificialtree.in/projects.html
+- https://artificialtree.in/solutions.html
+
+Note: Confirm that these URLs match the published website before submitting this file.

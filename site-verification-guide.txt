@@ -1,0 +1,21 @@
+ARTIFICIALTREE.IN — GOOGLE SEARCH CONSOLE CHECKLIST
+
+1. Publish the actual website on https://artificialtree.in/.
+2. Confirm that these pages load successfully:
+   - https://artificialtree.in/
+   - https://artificialtree.in/about.html
+   - https://artificialtree.in/categories.html
+   - https://artificialtree.in/projects.html
+   - https://artificialtree.in/solutions.html
+3. If the actual filenames or URLs differ, edit sitemap.xml and llms.txt to match.
+4. Upload robots.txt and sitemap.xml to the website document root (usually public_html).
+5. Open https://artificialtree.in/robots.txt and https://artificialtree.in/sitemap.xml to verify they are publicly accessible.
+6. In Google Search Console, add/verify the domain property and submit:
+   https://artificialtree.in/sitemap.xml
+7. Request indexing for the homepage and important pages after the live website is accessible.
+
+Important:
+- The domain was showing a Hostinger parked-domain page when checked on 2026-10-31.
+- Do not expect indexing of the actual website until the real site is published.
+- The page names above are based on the provided screenshot and must be checked against the real URLs.
+- Do not add fake Google verification tokens or claim that indexing is guaranteed.
